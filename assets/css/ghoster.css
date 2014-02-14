@@ -1,0 +1,44 @@
+.ghoster {
+  background: #eaf9ff;
+  border: #e2edf2 2px solid;
+  color: #000;
+  margin: 1em 0 2em 0;
+  overflow: hidden;
+  padding: 30px 30px 30px 30px;
+}
+
+.ghoster, .ghoster h2, .ghoster p {
+  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif !important;
+}
+
+.ghoster .ghoster-image {
+  float: left;
+  width: 16%;
+}
+
+.ghoster .ghoster-image img {
+  margin: 1em 0em;
+}
+
+.ghoster .ghoster-aside {
+  float: left;
+  padding-bottom: 1em;
+  padding-left: 1.5em;
+  width: 75%;
+}
+
+.ghoster h2 {
+  font-size: 22px;
+  font-weight: normal;
+  margin: 0.5em 0 0.5em 0;
+}
+
+.ghoster a {
+  color: #8e9ded;
+}
+
+.ghoster p {
+  font-size: 16px;
+  line-height: 1.8em;
+  margin: 0;
+}
